@@ -33,4 +33,4 @@ Folding cell animation:- https://github.com/Ramotion/folding-cell
 
 Library supported with token generation and sample with swift :- https://github.com/socrata/soda-swift
 
-
+Disclaimer:- NASA-Meteors app is for demo purpose and used as tutorial in youtube channel for swift developers. If its image copyright/asset or any other related issue please contact :- swift4kat@gmail.com
