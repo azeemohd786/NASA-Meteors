@@ -1,0 +1,6 @@
+module Pods_NASA_Meteors {
+  umbrella header "Pods-NASA-Meteors-umbrella.h"
+
+  export *
+  module * { export * }
+}
